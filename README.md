@@ -151,13 +151,15 @@ I can make myself more familiar with Arch Linux by following this Wiki page.
 
 ### Status
 
-Doing
+Done
 
 ### DoD
 
 Specify that if you followed this page until the end, under the Result title.
 
 ### Result
+
+I followed this page till the end.
 
 ## Follow [Arch compared to other distributions](https://wiki.archlinux.org/title/Arch_compared_to_other_distributions) Wiki page
 
