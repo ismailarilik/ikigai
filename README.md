@@ -69,7 +69,7 @@ I can make myself familiar with this OS by reviewing the website of it.
 
 ### Status
 
-To-do
+Doing
 
 ### DoD
 
