@@ -12,7 +12,8 @@ Requirements for to-do items are listed below:
     3. An answer to "Is it something the world needs?"
     4. An answer to "Is it something you can be paid for?"
 4. Status ("To-do", "Doing" or "Done")
-5. Result (An outcome statement which reflects what was done for the to-do item)
+5. DoD (Definition of Done)
+6. Result (optional)
 
 ## Find the best OS to make development on
 
