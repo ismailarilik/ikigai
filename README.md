@@ -42,3 +42,37 @@ Done
 ### Result
 
 [Arch Linux](https://archlinux.org/)
+
+## Review [archlinux.org](https://archlinux.org/)
+
+### Conformity to Ikigai
+
+#### Is it something you love?
+
+Yes
+
+#### Is it something you are good at?
+
+Yes
+
+#### Is it something the world needs?
+
+I can make somethings the world need, efficiently on this OS.
+I should make myself familiar with this OS to be able to install and use it effectively.
+I can make myself familiar with this OS by reviewing the website of it.
+
+#### Is it something you can be paid for?
+
+I can make somethings I can be paid for, on this OS.
+I should make myself familiar with this OS to be able to install and use it effectively.
+I can make myself familiar with this OS by reviewing the website of it.
+
+### Status
+
+To-do
+
+### DoD
+
+List some pages to follow under the Result title
+
+### Result
