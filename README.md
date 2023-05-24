@@ -365,7 +365,7 @@ I can learn the most efficient way to contribute to Arch Linux by following this
 
 ### Status
 
-To-do
+Doing
 
 ### DoD
 
