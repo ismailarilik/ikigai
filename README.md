@@ -297,7 +297,7 @@ I can learn the most efficient way to contribute to ArchWiki by following this H
 
 ### Status
 
-To-do
+Doing
 
 ### DoD
 
