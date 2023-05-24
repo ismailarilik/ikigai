@@ -263,13 +263,15 @@ I can follow Wiki pages more easily after reading this Help page.
 
 ### Status
 
-Doing
+Done
 
 ### DoD
 
 Specify that if you followed this page until the end, under the Result title.
 
 ### Result
+
+I followed this page till the end.
 
 ## Follow [Help:Editing](https://wiki.archlinux.org/title/Help:Editing) Wiki page
 
