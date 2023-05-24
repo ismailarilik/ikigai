@@ -365,13 +365,15 @@ I can learn the most efficient way to contribute to Arch Linux by following this
 
 ### Status
 
-Doing
+Done
 
 ### DoD
 
 Specify that if you followed this page until the end, under the Result title.
 
 ### Result
+
+I followed this page till the end.
 
 ## Install Arch Linux by following [Installation guide](https://wiki.archlinux.org/title/Installation_guide) Wiki page
 
