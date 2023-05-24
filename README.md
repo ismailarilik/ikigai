@@ -397,7 +397,7 @@ I can make somethings I can be paid for, on Arch Linux.
 
 ### Status
 
-To-do
+Doing
 
 ### DoD
 
