@@ -187,7 +187,7 @@ I can make myself more familiar with Arch Linux by following this Wiki page.
 
 ### Status
 
-To-do
+Doing
 
 ### DoD
 
