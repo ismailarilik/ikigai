@@ -397,13 +397,15 @@ I can make somethings I can be paid for, on Arch Linux.
 
 ### Status
 
-Doing
+Done
 
 ### DoD
 
 Specify that if you installed Arch Linux by following this Wiki page, under the Result title.
 
 ### Result
+
+I installed Arch Linux by following this Wiki page.
 
 ## Follow [General recommendations](https://wiki.archlinux.org/title/General_recommendations) Wiki page after installing Arch Linux to adjust it to your needs
 
