@@ -465,10 +465,12 @@ I should adjust it to my needs for the most effective usage.
 
 ### Status
 
-Doing
+Done
 
 ### DoD
 
 Specify that if you install necessary applications by following this Wiki page, under the Result title.
 
 ### Result
+
+I installed necessary applications by following this Wiki page.
