@@ -431,13 +431,15 @@ I should adjust it to my needs for the most effective usage.
 
 ### Status
 
-Doing
+Done
 
 ### DoD
 
 Specify that if you do general recommendations by following this Wiki page, under the Result title.
 
 ### Result
+
+I do general recommendations by following this Wiki page.
 
 ## Follow [List of applications](https://wiki.archlinux.org/title/List_of_applications) Wiki page after adjusting your Arch Linux to your needs, to install necessary applications
 
